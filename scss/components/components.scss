@@ -1,17 +1,17 @@
-    // wordmark
-    .wordmark {
-        width: 92px;
-        height: 42px;
-        position: relative;
-        border: solid 2px #fff;
+// wordmark
+.wordmark {
+    width: 92px;
+    height: 42px;
+    position: relative;
+    border: solid 2px #fff;
 
-        span {
-            position: absolute;
-            bottom: -6px;
-            left: -2px;
-            color: #fff;
-            font-family: $font-gill;
-            font-size: 20px;
-            letter-spacing: 2px;
-        }
+    span {
+        position: absolute;
+        bottom: -6px;
+        left: -2px;
+        color: #fff;
+        font-family: $font-gill;
+        font-size: 20px;
+        letter-spacing: 2px;
     }
+}
